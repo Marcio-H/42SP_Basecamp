@@ -1,4 +1,4 @@
-# 42SP_eu
+# 42SP_Basecamp
 Este repositório guarda todos os códigos, arquivos, etc, que eu criei para resolver as listas da 42 durante o Basecamp.
 
 Ele está organizado da seguinte forma:
